@@ -17,7 +17,7 @@ export default defineConfig({
       manifest: {
         name: "KeepPeek",
         description: "KeepPeek",
-        start_url: "/",
+        start_url: "https://tristandeschamp.github.io/keep-seek/",
         display: "standalone",
         background_color: "#FFFFFF",
         theme_color: "#3B82F6",
